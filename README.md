@@ -34,8 +34,5 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chandana-0430&theme=radical)  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Chandana-0430&color=blue&style=flat&label=Profile+Views)  
