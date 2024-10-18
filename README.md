@@ -4,7 +4,7 @@
 
 ☁️ I’m currently learning AWS and Cloud Computing.
 
-👯 I’m looking to collaborate on Full-Stack stack and blockchain projects.
+👯 I’m looking to collaborate on Full-Stack stack and Cloud based projects.
 
 📫 How to reach me: (click!)
 <a href="https://www.linkedin.com/in/chanduchandana/" target="_blank">
