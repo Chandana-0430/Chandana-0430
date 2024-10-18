@@ -1,4 +1,4 @@
-# Hi 👋 I am Chandana
+## Hi 👋 I am Chandana
 
 🔭 I’m currently working on Full Stack Development and Linux.
 
